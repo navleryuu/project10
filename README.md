@@ -1,8 +1,8 @@
 ## Praktikum SI-MVC Pemrograman Berbasis Web Lanjutan 2023
-Nama        : Elvan Dito Siregar
-Kelas       : SI -1
-NIM         : 0702213062
-Mata Kuliah : Pemrograman Berbasis Web Lanjutan
+* Nama        : Elvan Dito Siregar
+* Kelas       : SI -1
+* NIM         : 0702213062
+* Mata Kuliah : Pemrograman Berbasis Web Lanjutan
 ## Buat Folder _db serta file didalamnya
 * database.sql
 ## Buat Folder app serta empat folder didalamnya
